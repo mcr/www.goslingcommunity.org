@@ -1,0 +1,5 @@
+AuthUserFile /home/goslingcommunity.org/www.goslingcommunity.org/flow/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Please contact the author directly for access to this pre-publication draft: Joseph Potvin (jpotvinATlinuxmail.org)"
+AuthType Basic
+require valid-user

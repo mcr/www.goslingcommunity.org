@@ -1,0 +1,35 @@
+<?php
+
+  // First, redirect any old URL's - easier for webteam than
+  // Redirects being added to the Apache config file
+
+  $REDIRECT_URL=$_SERVER["REDIRECT_URL"];
+
+  switch ($REDIRECT_URL) {
+    case "/pdf/VER-YouPaidP8.pdf":
+       $redirect = "/files/VER-YouPaidP8.pdf";
+       break;
+  }
+  if ($redirect != "") {
+    error_log("[Redirected To: $redirect]",0);
+    Header("Location: $redirect");
+    exit;
+  }
+?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title><?php echo $REDIRECT_URL; ?></title>
+</head>
+
+<SCRIPT LANGUAGE="php">include("template-top.php3");</SCRIPT>
+
+<P>
+<H1>File Not Found | Fichier Non trouvé</H1>
+
+<H1><?php echo $REDIRECT_URL; ?></H1>
+
+<SCRIPT
+LANGUAGE="php">include("template-bottom.php3");</SCRIPT>
+</HTML>

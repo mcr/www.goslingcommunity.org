@@ -1,0 +1,245 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+            "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<TITLE>Getting Open Source Logic INto Governments (GOSLING) Community: Events</TITLE>
+<META HTTP-EQUIV="Keywords"
+ CONTENT="GNU, FSF, FSFC, Free Software Foundation, Linux, Emacs, GCC,
+        Unix, Free Software, Operating System, Canada">
+<META HTTP-EQUIV="Description"
+ CONTENT="Getting Open Source Logic INto Governments (GOSLING) 
+          Community">
+<LINK REV="made" HREF="mailto:russell@flora.ca">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</HEAD>
+<!--#include virtual="/template/template-top.php3" -->
+
+
+<H2><A NAME="events">Upcoming Events</A></H2>
+
+<UL>
+</UL>
+
+
+</UL>
+
+<H2>Past Events</H2>
+
+<UL>
+
+<LI>"Three Good Reasons" Party: 4:30 pm, 4 May 2012.
+
+<LI>May 30, 2008: <A HREF="/anniversary/">6 Year anniversary</A>.
+
+<LI>Oct 8, 2006: CJOH (CTV Ottawa) did a <A HREF="http://www.cjoh.com/view_info.asp?id=3707">piece on Open Source software</A>, featuring <A HREF="/mp/">GOSLING's MP awareness project</A>.  This was based on <A HREF="http://www.digital-copyright.ca/node/2713">interviews done earlierin the week</A>.
+
+<LI>July 19-22, 2006: There will be a Birds of a Feather event at the
+Ottawa Linux Symposium:  <A HREF="http://www.linuxsymposium.org/2006/speakers.php?types=bofs">GOSLING / Canadian Copyright update</A>
+
+
+<LI>May 25, 2006: <a
+HREF="http://iit-iti.nrc-cnrc.gc.ca/colloq/0607/06-05-25_e.html">Intellectual
+Resources Canada (IRCan), a NRC-IIT colloquia</A>.  Support for
+communities engaged in the creation and evolution of intellectual assets
+under joint and collective copyright, that are of interest to the
+Government of Canada.
+
+
+<LI>April 21, 2006: OCRI: <A 
+HREF="http://www.ocri.ca/email_broadcasts/042106Partnership.html">Competing 
+With Open Source Software</A>, included a presentation by Joseph Potvin 
+about Intellectual Resources Canada (IRCan).
+
+<LI>April 10th, 2006 : <a 
+HREF="http://www.capchi.org/cgi-bin/dada/mail.cgi/archive/announce/20060410103300/">CapCHI 
+meeting</A> - Open Source Software and Government, The Intellectual 
+Resources Canada (IRCan) Initiative, Presented by Joseph Potvin, Treasury 
+Board of Canada
+
+<LI>18 November 2005: First Event of the "GOSLING Quarterly Keynote 
+Discussions"!  John Nash, Professor, School of Management, University of 
+Ottawa. Topic: "Dealing with Spreadsheet Addiction". 3:00 p.m. In PWGSC's 
+"Budge Crawley Theater", Main floor, 350 Albert, Constitution Square.
+
+<LI>18 October 2005: GOSLING Co-Coordinator, Joseph Potvin invited to 
+present on Open Source Business Rationale and Operations at the <A 
+HREF="http://www.isacc.ca/isacc/english/tsacc_plenary/current_plenary.jsp">Information 
+and Communications Technology Standards Advisory Council of Canada 
+(ISACC)</A>
+
+<LI>14 October 2005:  Getting Open Source Logic INto Treasury Board 
+Secretariat (GoslinTBS) special Gaggle -- Co-founder Joseph Potvin's last 
+day at PWGSC as he moves over to TBS.
+
+<LI>4-5-6 October 2005: GTECweek 2005. No "Open Source Pavilion" this 
+year, and no GOSLING community participants are speakers. But we will run 
+a draw of open source books donated by O'Rielly. Method: Collecting 
+business cards with toonies for charity, in a big water bottle borrowed 
+from the "Open Source Charity Water Cooler" located in IT Services Branch. 
+(As Russell once pointed out, H20 is open source, after all!) Several 
+companies will also be promoting awareness of GOSLING via their GTEC 
+booths.
+
+<LI>June 2005: CoSE Initiative beta site shut down due to "lack of 
+support" at mid-level in a part of IT Services Branch, PWGSC. Rumours 
+circulated that CoSE has been "cancelled" (but of course, there's nothing 
+official that says that). GoC-level business planning for CoSE continues 
+with high-level support. Stay tuned! The modified approach will now remove 
+the <A HREF="http://en.wikipedia.org/wiki/Single_point_of_failure 
+">"single point of failure"</A> anti-pattern from the CoSE business 
+architecture Should have thought of that earlier!
+
+<LI>30 May 2005:  GOSLING Co-Coordinators Potvin and McOrmond present, 
+along with a former Deputy Comptroller General, and a business architect 
+on loan to the CoSE Initiative from the GoC Marketplace team, at the 
+"Interdepartmental Open Source Committee" hosted by CIO Branch, Treasury 
+Board Secretariat. Purpose of the presentation is to report on the CoSE 
+Initiative business and technical proof of concept,
+
+<LI>May 2005: Environment Canada's Meteorological Services tests out the 
+beta site of the CoSE Initiative, with a software solution it plans to 
+release under a certified open source license.
+
+
+<LI>16 May 2005:  Things get interesting... GOSLING Co-Coordinator, Joseph 
+Potvin, blocked from within IT Services Branch, PWGSC, from accepting an 
+invitation from the Conseil du Tresor, Government of Quebec to present on 
+behalf of the Government of Canada at the <A 
+HREF="http://www.cllap.qc.ca">"Conférence sur les Logiciels Libres et les 
+Administrations Publiques" (CLLAP)</A>. Potvin's participation was 
+supported by CIO Branch of Canada's Treasury Board Secretariat, as he was 
+to have reported on the results of the past four months of business design 
+work on the Collaborative Software Evolution (CoSE) Initiative that CIO 
+Branch, which TBS had funded, and in which the Government of Quebec wants 
+to participate.
+
+<LI>20 April 2005: Presentation about CoSE at the Workshop on Open Source 
+in Military Computing, hosted by Defense Research and Development Canada. 
+Participants included the folks from south of the border who got the US 
+military to contribute to SE-Linux, OpenBSD, and FreeBSD.
+
+<LI>Spring 2005: Collaborative Software Evolution (CoSE) Initiative gets 
+funding from CIO Branch, TBS for "Proof-Of-Concept" business design and 
+beta set-up in IT Services Branch, running GForge on SuSE Linux IBM 
+OpenPower 720 servers contributed by Agriculture Canada, under an 
+arrangment facilitated by IBM. Security expert Michael Richardson 
+contracted to lead beta system architecture and set-up, with assistance 
+from Russell McOrmond.
+
+<LI>31 January 2005: ITSB Products and Services Committee gets an update 
+on the Collaborative Software Evolution (CoSE) Initiative, just prior to 
+the work receiving funding from CIO Branch, TBS.
+
+<LI>29 November 2004: "Interdepartmental Open Source Committee" is re-born 
+at CIO Branch, Treasury Board Secretariat, and chaired by the Chief 
+Architect! The ealier version through 2003 was hosted by the ICT Branch, 
+Industry Canada. CoSE Worksite Initiative is first on the agenda, because 
+it proposes a way for GoC to participate in open source communities (i.e. 
+get the real value of it, not just get software for free).
+
+<LI>Ottawa: October 18 - 20, 2004: <A HREF="http://www.gtecweek.com/">GTEC 
+Week</A>. We organized the "Open Source Security Strategy" speakers relay 
+for the "Open Source Pavilion" at the centre of the GTEC Exhibition floor, 
+with 23 speakers from numerous companies, universities, and government 
+offices. This event was assisted by <A 
+HREF="http://www.drdc-rddc.gc.ca">Defense Research and Development 
+Canada</A>, which also set up an adjoining display.
+
+<P> See <A HREF="gtec2004.shtml">photo of Helen Jelich</A>, Director 
+General for Standards, Engineering and Project Management, Public Works 
+and Government Services Canada, outlines "The Open Source Definition" at 
+the Keynote Panel.
+
+<LI>Ottawa: September 30, 2004: <A 
+HREF="http://www.digital-copyright.ca/node/view/461">iCommons Canada</A> 
+Launch Party.
+
+<LI>Ottawa: July 21-24, 2004:  <a 
+HREF="http://www.linuxsymposium.org/2004/">Ottawa Linux Symposium</A><BR> 
+There was a <A 
+HREF="http://www.linuxsymposium.org/2004/view_abstract.php?content_key=140">GOSLING 
+Birds of a Feather session</A>, Wednesday July 21st, 17h00-18h00, Room D.
+
+
+<LI>Canada Wide: May 23 to June 28, 2004: Getting Open Source into the 
+election<BR> A number of GOSLING volunteers are working with the <A 
+HREF="http://digital-copyright.ca">Digital Copyright Canada forum</A> to 
+get Open Source, the Internet, digital copyright and related policy into 
+the election.
+
+<LI>Ottawa: May 19-21, 2004: <A 
+HREF="http://ottawaconference.alai.ca/">RETHINKING COPYRIGHT</A>
+
+<LI>Ottawa : May 13-16, 2004: <A HREF="http://www.bsdcan.org/">BSDCan was
+the first BSD conference in Canada.</A>
+
+<BR>GOSLING members hosted a Birds of a Feather session on <a
+HREF="http://www.bsdcan.org/bofs.php">Open Source in Government</A>.
+
+
+<LI>Toronto : May 9-11, 2004: <A 
+HREF="http://osconf.kmdi.utoronto.ca/">Open Source
+and Free Software: Concepts, Controversies, and Solutions</A>.
+
+<P>This was the 2-year GOSLING anniversary, and we launched a 
+<A HREF="http://toronto.goslingcommunity.org/">GOSLING community chapter in 
+Toronto</A>.  The hope is to expand the
+GOSLING community to other capitals and other levels of government.
+
+<LI>Toronto:  April 13-15, 2004: <A
+HREF="http://www.realworldlinux.com/">Real World Linux Conference and
+Expo</A>
+
+<BR>Joseph Potvin <A
+HREF="http://www.realworldlinux.com/conf_glance.html#sessions">hosted a tutorial</A> on "Full Cost Accounting Methodology for IT Projects:  You Paid What??!" , as well as a seminar on "The OPA Success Story".
+
+<LI>Ottawa : March 27, 2004: <A HREF="http://www.osw.ca/">Open Source
+Weekend</A>
+
+<BR>Joseph Potvin, <A HREF="http://www.commonlaw.uottawa.ca/faculty/prof/mbornfreund/desce.htm">Marcus Bornfreund</A>, and Russell McOrmond co-presented on a
+number of topics.  Russell offered his notes <A
+HREF="http://www.flora.ca/osw2004/">on the financial and political aspects of software</A>.
+
+<LI>Ottawa : March 9-11, 2004: <A
+HREF="http://www.governmentevents.ca/upcoming.html#fca">"You Paid
+What??!"</A> A Workshop On Full Cost Accounting Methodology For
+Information Technology Projects In The Public Sector.
+
+<BR>Joseph Potvin was one of the speakers and organizers for this 
+workshop.  Draft comments are available: <A 
+HREF="http://www.goslingcommunity.org/files/FCA_Mar04WkshpREPORT_Draft21aJun04XML.sxw">OASIS 
+open office 
+XML</A> , <A 
+HREF="http://www.goslingcommunity.org/files/FCA_Mar04WkshpREPORT_Draft21aJun04XML.pdf">PDF</A> 
+(<A HREF="http://www.flora.ca/pdf.shtml">PDF readers</A>)
+
+<LI>Ottawa : October 6-8, 2003 : <A HREF="gtec2003.shtml">GTEC week
+(Ottawa)</A>
+
+<LI>Ottawa : July 23-26, 2003 : <A
+HREF="http://www.linuxsymposium.org/2003/view_abstract.php?talk=193">GOSLING
+BOF at Linux Symposium</A>
+
+<LI>Ottawa : May 9, 2003 : <A
+HREF="http://weblog.flora.ca/article.php3?story_id=402">GOSLING 1-year
+anniversary gathering</A>
+
+<LI>Ottawa : May 27-31, 2002 : <A
+HREF="http://www.flora.ca/osss2002/">Open Source Solutions Showcase</A>
+
+<BR>It was informal gatherings around this showcase that helped to launch
+GOSLING.
+
+</UL>
+
+<A HREF="http://weblog.flora.org/search.php3?query=GOSLING">Search on
+weblog.FLORA.org</A> for relevant articles.
+
+<HR>
+<P>
+Updated:
+<!-- timestamp start -->
+$Date: 2013/08/28 15:57:00 $
+<!-- timestamp end -->
+<!--#include virtual="/template/template-bottom.php3" -->
+</HTML>

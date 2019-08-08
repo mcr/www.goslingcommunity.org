@@ -1,0 +1,6 @@
+# robots.txt for http://www.goslingcommunity.org/
+
+#    Thanks for indexing our site!
+
+User-agent: *
+Disallow: /mp/   # Don't index MP stuff
